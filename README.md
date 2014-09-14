@@ -1,4 +1,6 @@
-1C-Slack
+ИНТЕГРАЦИЯ 1С:ПРЕДПРИЯТИЯ 8.3 С СЕРВИСОМ SLACK
 ========
+[Краткое описание - что, зачем и почему](http://www.avtomat.biz/blog/integraciya-1spredpriyatiya-83-s-servisom-slack)
 
-Интеграция 1С:Предприятия 8.3 с Slack
+© Петр Базелюк
+e-mail: pbazelyuk@ktc-ua.com
